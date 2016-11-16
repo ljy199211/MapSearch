@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.pkmmte.view\circularimageview\1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.pkmmte.view-circularimageview-1.1_a7a3053b14593236e5e32ea3cd53013ef840b2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.3_bc691cd469881aceed51f1f66258f582eb6116fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="56dd3678b15cebdc91366b5a63dc5b0cf46983f7">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\instant-run_b795622d87c10cb7bfb0b65c5a04fc0b6ea0293a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_164d618df50561411aa57ff1b77f057336da3dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_b95622bf630f0e579a1b0840ccbf189496a0b53e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a79a9818a20cbeb49015afab73c787fb681ed756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.daimajia.androidanimations-library-1.1.3_1443501dedfca80bf112f803c82f6bd53b0d069e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_393ff4ac6807158ab753bbd7ad9c2b63885710e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_b4a1569be30a87ad6b45a27a3183c6054f7c661a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.daimajia.easing-library-1.0.1_773049d3b15b63386b3494f9d2875142f87fa072.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_radar_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7fef5bef60bbcede2d08f65c5b2f4720eda81cdf">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_radar_v4_0_0_3d0daa9569babfdee201d7aada25d160ad56c937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\org.hybridsquad.android.photocropper\library\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="95f2c0dcfe955687f296a0c19540882a07c7a800">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\org.hybridsquad.android.photocropper-library-2.1.0_1503e3424fad8ed3a2e0d1b026519c509858cd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_871b0b0295da39c4d5652373e7dad57420f5242e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3ac64c33d8ea91defe9a17c5d25f268db2da9298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_cloud_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d70432ca2a2414ecb4edbad44313ccb26886c0a6">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_cloud_v4_0_0_110c076dab606f51b450e04bd51acab3ddea3d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d5abd7e083d77bf1a7d686ec479c88fbe7fe28d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a480ea53cfa4b2566b91ae816b83162fdaf57c8">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4ed94ac6cfb440591730cf46154e428f446ceb71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_fbb7edaca8120f9a86a0f47ed3f7aae587bd717c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_f3daa49e1ac58ab0589d308e202184dcbced50eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_dbf1db239638b96bbc14379faae8d3cc6200b1f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_dd503213d9891ea9ec3aed9d7450f75941a05f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_16ea2c5adabd180da0b0709521ed490e4e49b95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="38524b6ba51f9cab6674cc3d6d743164b9bdb4c0">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\locSDK_6.13_12532274ab7447e4f7fb64aba9225897b7220e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_map_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9d5ec2305e45107f85d93b59cfb8ccd962be6d93">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_map_v4_0_0_76696edc38d26062d18f2559b1011b2fef1b650e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_search_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d00f6ec8bfc2824df5e1b4181be80e24f3799637">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_search_v4_0_0_900cc56f6bdb47203fc074dfc0df617a4d3ea36e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a0850ac918b6fdc8d8f683abf05ed9b954c3d02b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4264eeafd51d86efc9c2d69be7c47f075bf81ee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2ccba744812a799ee7136d972929c3b4ea7aaf0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1d559e7ed20d144e0afcd6b12511adab899fb1e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_397e682f81a90ee78c74b4633dae79a7450f65cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_base_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8f5d802ae606dec3ab72ed0f15f732afb444705e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_base_v4_0_0_9ff532200811e85c98b566938cc812eaeffa749e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\gson-2.7_2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a2a852f2914beaf5c9b4998eff8bef410506fd76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_a2a255623276bf6fd1b525dcb3e3c692cac62c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\Treasure\baidumap\unspecified\jars\libs\baidumapapi_util_v4_0_0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4fad0d4e23dd4ef917f8ad702bb2bc891b1f6b5d">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\baidumapapi_util_v4_0_0_75fd30c5cb9d147bdfeb81c1d9ad992e35c58b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_f176f56949f68ac030553d66f9f82a7581509eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\baidumap\Treasure\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\baidumap\Treasure\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_7fb4bef8ecac06bfb9d20f02b286698a8edc659d.jar" />
+    </item>
+
+</items>
